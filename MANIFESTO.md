@@ -39,8 +39,28 @@ We're not afraid to say, "I'm stuck."
 We share what we learn. We show our thinking. We raise flags early. Transparency beats perfection.
 
 ## 🧭 We Aim for Progress, Not Perfection
-We don't wait for perfect clarity before starting.  
+We don't wait for perfect clarity before starting.
 We ship, we learn, we refine. Feedback loops beat endless planning.
+
+## 🏗️ We Build the System That Builds the System
+The most leveraged work isn't always the feature — it's often the tooling.
+We invest in CI pipelines, code generators, templates, and automation that make future work faster, safer, and more consistent. One hour spent improving the build saves ten hours next quarter.
+
+## 🔁 We Create Feedback Loops for Our Process
+We don't just measure product metrics — we measure how we work.
+How long does a PR sit in review? How often do deploys fail? Where do developers get stuck? We treat our process as a product, iterating on it just like we iterate on code.
+
+## 🧬 We Encode Knowledge Into Tools
+Documentation gets stale. Tribal knowledge gets lost.
+But a linter rule, a pre-commit hook, or a well-designed abstraction teaches every developer who encounters it. We turn hard-won lessons into guardrails that scale.
+
+## ⚙️ We Automate the Toil
+Repetitive work is a signal, not a sentence.
+When we find ourselves doing the same task more than twice, we ask: can this be scripted, templated, or eliminated? We free our minds for the work that actually requires them.
+
+## 🌱 We Grow the Platform, Not Just the Product
+Features ship once; platforms enable forever.
+We think beyond the immediate ask. Can this become a reusable component? A shared service? A pattern others can follow? The best systems multiply the efforts of everyone who builds on them.
 
 ---
 
