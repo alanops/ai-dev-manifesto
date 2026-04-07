@@ -2,6 +2,8 @@
 
 A practical manifesto for dev teams using AI to build fast without sacrificing code quality, ownership, or team trust.
 
+> Status: Active
+
 This is not a rulebook — it's a set of shared principles for responsible, thoughtful, and high-performing development in the AI era.
 
 Use what helps. Improve what doesn't. Fork it for your team.
